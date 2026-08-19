@@ -49,6 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:amartya.bose@gmail.com'
+- icon: link
+  icon_pack: fas
+  link: https://amartyabose.github.io/
 - icon: github
   icon_pack: fab
   link: https://github.com/amartyabose
@@ -76,7 +79,4 @@ highlight_name: true
 user_groups:
 - Principal Investigator
 ---
-
-
-{{% cta cta_link="https://amartyabose.github.io" cta_text="Personal Website →" %}}
 
