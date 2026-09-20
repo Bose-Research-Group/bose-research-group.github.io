@@ -42,7 +42,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "publication/2026-pild-state2state/paper.pdf"
+url_pdf: "publication/2026-vagd/paper.pdf"
 url_code:
 url_dataset:
 url_poster:
